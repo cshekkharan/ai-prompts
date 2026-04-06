@@ -1,4 +1,8 @@
-# ai-prompts
-AI Prompts for different cases
+# Prompt Library
 
-Here will be a collection of prompts based on the AI tool
+Collection of prompts for:
+- Evaluation
+- Hallucination control
+- Structured outputs
+
+Used for testing and optimizing LLM behavior.
